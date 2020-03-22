@@ -1,0 +1,48 @@
+baseURL = "https://0x0u.github.io/"
+languageCode = "jp"
+title = "miya"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+publishDir = "./"
+
+[params]
+    author = "miyaaa"
+    avatar = "avatar.png"
+    favicon = "favicon.ico"
+    description = "B3 / 法律 / PythonとKotlinを使います。"
+    publicationYear = "2020"
+
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+
+# [[menu.main]]
+#     identifier = "about"
+#     # name = "about"
+#     pre = "<i class='fas fa-user'></i>"
+#     url = "m0zurillex@gmail.com"
+#     weight = 40
+    
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/qxi_"
+    weight = 20
+
+[[menu.main]]
+    identifier = "github"
+    # name = "GitHub"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/0x0u"
+    weight = 30
+
+[[menu.main]]
+    identifier = "email"
+    # name = "Email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "m0zurillex@gmail.com"
+    weight = 40
+
+    
