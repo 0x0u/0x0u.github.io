@@ -40,9 +40,9 @@ publishDir = "./"
 
 [[menu.main]]
     identifier = "email"
-    # name = "Email"
+    # name = "email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "m0zurillex@gmail.com"
+    url = "mailto:m0zurillex@gmail.com"
     weight = 40
 
     
