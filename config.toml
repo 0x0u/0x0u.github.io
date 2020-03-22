@@ -17,12 +17,12 @@ publishDir = "./"
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
 
-# [[menu.main]]
-#     identifier = "about"
-#     # name = "about"
-#     pre = "<i class='fas fa-user'></i>"
-#     url = "m0zurillex@gmail.com"
-#     weight = 40
+[[menu.main]]
+    identifier = "about"
+    # name = "about"
+    pre = "<i class='fas fa-user'></i>"
+    url = "/about"
+    weight = 40
     
 [[menu.main]]
     identifier = "twitter"
