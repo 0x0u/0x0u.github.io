@@ -7,7 +7,7 @@ hasCJKLanguage = true
 publishDir = "./"
 
 [params]
-    author = "miyaaa"
+    author = "miya"
     avatar = "avatar.png"
     favicon = "favicon.ico"
     description = "B3 / 法律 / PythonとKotlinを使います。"
