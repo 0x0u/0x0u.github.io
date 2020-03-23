@@ -20,9 +20,9 @@ publishDir = "./"
 [[menu.main]]
     identifier = "about"
     # name = "about"
-    pre = "<i class='fas fa-user'></i>"
+    pre = "<i class='fas fa-user fa-lg'></i>"
     url = "/about"
-    weight = 40
+    weight = 20
     
 [[menu.main]]
     identifier = "twitter"
