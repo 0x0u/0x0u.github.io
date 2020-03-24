@@ -17,16 +17,11 @@ draft: false
 - Python (3年) 
     - Atcoder（灰）最近始めた
     - LINE Messaging APIを使ったチャットボット
-  	- GCPとFlaskをつかった気象庁防災情報XMLサブスクレイパー
-  	- WebApi（Twitter、LINE、Mastodon、DMM...） をごにょごにょと
+    - GCPとFlaskを使った気象庁防災情報XML受信用サブスクライバ
+    - WebApi（Twitter、LINE、Mastodon、DMM...） をごにょごにょと
 
-* Kotlin（半年）
-	- FireBaseを使った英単語学習アプリの開発（アルバイト）
-
+- Kotlin（半年）
+    - FireBaseを使った英単語学習アプリの開発（アルバイト）
 
 ## Products
 準備中...
-
-
-
-
