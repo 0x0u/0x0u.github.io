@@ -7,7 +7,7 @@ draft: false
 
 ## Links
 * [Twitter](https://twitter.com/qxi_)
-* [Github](https://github.com/0x0u)
+* [Github](https://github.com/miya)
 * [Qiita](https://qiita.com/0x0)
 * [Atcoder](https://atcoder.jp/users/m0zu)
 * [GooglePlay](https://play.google.com/store/apps/developer?id=m0zu)
