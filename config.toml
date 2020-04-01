@@ -1,4 +1,4 @@
-baseURL = "https://0x0u.github.io/"
+baseURL = "https://miya.github.io/"
 languageCode = "jp"
 title = "miya"
 theme = "pulp"
@@ -35,7 +35,7 @@ publishDir = "./"
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/0x0u"
+    url = "https://github.com/miya"
     weight = 30
 
 [[menu.main]]

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>miya</title>
-    <link>https://0x0u.github.io/</link>
+    <link>https://miya.github.io/</link>
     <description>Recent content on miya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Sun, 22 Mar 2020 19:18:34 +0900</lastBuildDate>
     
-	<atom:link href="https://0x0u.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miya.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://0x0u.github.io/about/</link>
+      <link>https://miya.github.io/about/</link>
       <pubDate>Sun, 22 Mar 2020 19:18:34 +0900</pubDate>
       
-      <guid>https://0x0u.github.io/about/</guid>
+      <guid>https://miya.github.io/about/</guid>
       <description>1998年生まれ。東京出身。法律を専攻している大学3年生で独学でプログラミングをやっています。アルバイトでは個人経営の学習塾で英単語学習アプ</description>
     </item>
     
