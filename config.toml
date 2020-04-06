@@ -10,7 +10,7 @@ publishDir = "./"
     author = "miya"
     avatar = "avatar.png"
     favicon = "favicon.ico"
-    description = "B3 / 法律 / PythonとKotlinを使います。"
+    description = "B4 / 法律 / PythonとKotlinを使います。"
     publicationYear = "2020"
 
 [outputs]
