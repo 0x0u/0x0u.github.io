@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/p_q
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://miya.github.io
+  * I am p_q (https://keybase.io/p_q) on keybase.
+  * I have a public key ASDQErb5y_iU7OzfE2CPVAANgSipSB8lBXbDBIAqqmv6ogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d012b6f9cbf894ececdf13608f54000d8128a9481f250576c304802aaa6bfaa20a",
+      "host": "keybase.io",
+      "kid": "0120d012b6f9cbf894ececdf13608f54000d8128a9481f250576c304802aaa6bfaa20a",
+      "uid": "7c62188858e5960d6a82e5fe7c154719",
+      "username": "p_q"
+    },
+    "merkle_root": {
+      "ctime": 1586765893,
+      "hash": "f45718312583f956a32e1bb96672dec4f0dd388627521dfa54b4234e1495c575a00e46c113662791990d1f33bde1cdc50118469ed41a061447a25f36c1437ae5",
+      "hash_meta": "f4b1a0aa5ca9629a705eea8efc73d5805b70eb2f60899bf852a9fca196a8aa9d",
+      "seqno": 15900686
+    },
+    "service": {
+      "entropy": "AUbP6OcehblZC9DBKowXo19S",
+      "hostname": "miya.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586765935,
+  "expire_in": 504576000,
+  "prev": "1faabb8e6f04ccf867d0b60b070c478b8f918058c17626d8e9b417698e05707a",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0BK2+cv4lOzs3xNgj1QADYEoqUgfJQV2wwSAKqpr+qIKp3BheWxvYWTESpcCDsQgH6q7jm8EzPhn0LYLBwxHi4+RgFjBdibY6bQXaY4FcHrEILH8zsVdZMoVPMs/Po8o9db4Ib50J21rt5yiLC6y8joLAgHCo3NpZ8RAlPM1XOkKcqBRTyxTBLd10ubC29suv9ADO8siNBqF89YCjkQRyYu4yb4SOkRu93aRkcQZgV9KxdcX7roRBjwTA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILWQ3uGIs7r9La1w26FKhgsviKrd9Du5hjUilWviTlN2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/p_q
+
+==================================================================
