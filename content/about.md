@@ -6,9 +6,11 @@ draft: false
 1998年生まれ。東京出身。法律を専攻している新大学4年生で独学でプログラミングをやっています。アルバイトでは個人経営の学習塾で英単語学習アプリの開発、ランサーズではスクレイピングを使ったデータ収集系のお仕事をしています。
 
 ## Links
+* [Keybase](https://keybase.io/p_q)
 * [Twitter](https://twitter.com/qxi_)
 * [Github](https://github.com/miya)
 * [Qiita](https://qiita.com/0x0)
+* [Scrapbox](https://scrapbox.io/miya/)
 * [Atcoder](https://atcoder.jp/users/m0zu)
 * [GooglePlay](https://play.google.com/store/apps/developer?id=m0zu)
 * [Lancers](https://www.lancers.jp/profile/0x0u)
@@ -22,4 +24,6 @@ draft: false
 
 - Kotlin（半年）
     - FireBaseを使った英単語学習アプリの開発（アルバイト）
+
+## Products
 
