@@ -11,7 +11,7 @@ draft: false
 * [Github](https://github.com/miya)
 * [Qiita](https://qiita.com/0x0)
 * [Scrapbox](https://scrapbox.io/miya/)
-* [Atcoder](https://atcoder.jp/users/m0zu)
+* [Atcoder](https://atcoder.jp/users/p_q)
 * [GooglePlay](https://play.google.com/store/apps/developer?id=m0zu)
 * [Lancers](https://www.lancers.jp/profile/0x0u)
 
