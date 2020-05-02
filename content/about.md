@@ -9,7 +9,7 @@ draft: false
 * [Keybase](https://keybase.io/p_q)
 * [Twitter](https://twitter.com/qxi_)
 * [Github](https://github.com/miya)
-* [Qiita](https://qiita.com/0x0)
+* [Qiita](https://qiita.com/p_q)
 * [Scrapbox](https://scrapbox.io/miya/)
 * [Atcoder](https://atcoder.jp/users/p_q)
 * [GooglePlay](https://play.google.com/store/apps/developer?id=m0zu)
